@@ -2,6 +2,7 @@
 Итоговое задание - Online Coffee Shop
 
 Требования к итоговому заданию:
+
 Сверстать макет - https://www.figma.com/design/MRNiMRndvFIoci5muLcbYz/Online-Coffee-Shop?m=auto&t=EkDZYvE7p5a4fctE-6
 (В figma требуется регистрация, чтобы просматривать свойства элементов)
 
